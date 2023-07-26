@@ -1,6 +1,6 @@
 <cfg xmlns="http://alternativaplatform.com/core/config.xsd">
-<server address="f5.gamely.pro">
-	<port>35223</port>
+<server address="ru.corenodes.fun">
+	<port>25590</port>
 </server>
 <status>available</status>
 </cfg>
